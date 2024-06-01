@@ -1,10 +1,8 @@
-/* You can add global styles to this file, and also import other style files */
 html, body {
   height: 100%;
   margin: 0;
 }
 
 .home-content {
-  min-height: calc(100vh - 50px); /* Ajuste a altura conforme a altura do footer */
-  /* Outras regras de estilo */
+  min-height: calc(100vh - 50px);
 }
